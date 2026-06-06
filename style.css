@@ -6,7 +6,7 @@
 .styl2{color:black; text-align:left}
 .arial{font-family:verdana,arial}
 .bold{font-weight:bold}
-body{color:grey; text-align:center}
+body{color:grey; text-align:center; font-family:verdana,arial}
 h1{color:black; text-align:center}
 h2{color:grey; text-align:center}
 p{color:black; text-align:center}
