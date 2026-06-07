@@ -14,7 +14,7 @@ p{color:grey; text-align:left; font-size:16px;}
 li{color:black; text-align:left; font-size:16px; transform: scale(1.03); transition: transform 0.3s ease}
 ul{color:black; text-align:left; font-size:16px; transform: scale(1.03);}
 table{align:center;}
-a{transform: scale(1.03);}
+a{transition: transform 0.3s ease;}
 h1{padding: 20px; border: 5px line blue; text-align: center; border-radius: 10px;  transition: 0.3s;}
-h1:hover{transform: scale(1.03);}
-li:hover{transform: scale(1.25);}        
+h1:hover{transform: scale(1.03);} 
+a:hover{transform: scale(1.15)}
