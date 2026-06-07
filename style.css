@@ -8,7 +8,7 @@
 .bold{font-weight:bold}
 
 body{color:grey; text-align:center; font-family:verdana,arial}
-h1{color:blue; text-align:center; font-size:30px; font-weight:bold; transform: scale(1.03);}
+h1{color:blue; text-align:center; font-size:30px; font-weight:bold;}
 h2{color:black; text-align:left; font-size:24px; font-weight:bold;}
 p{color:grey; text-align:left; font-size:16px}
 li{color:black; text-align:left; font-size:16px; transform: scale(1.03);}
@@ -23,4 +23,7 @@ h1{background-color: rgba(144,238,144,0.9);
             border-radius: 15px;
             box-shadow: 3px 3px 10px gray;
             transition: 0.3s;}
+h1:hover{
+            transform: scale(1.03);
+            background-color: #90ee90;
         
