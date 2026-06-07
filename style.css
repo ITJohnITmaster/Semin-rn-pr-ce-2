@@ -6,7 +6,7 @@
 .styl2{color:black; text-align:left}
 .arial{font-family:verdana,arial}
 .bold{font-weight:bold}
-.a{transition: transform 0.3s ease; transform-orifin:left center}
+.a{transition: transform 0.3s ease; transform-orifin:right center}
 .a:hover,
 .a:active{transform: scale(1.05)}
 
