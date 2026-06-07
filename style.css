@@ -7,7 +7,7 @@
 .arial{font-family:verdana,arial}
 .bold{font-weight:bold}
 
-body{color:grey; text-align:center; font-family:verdana,arial; width: 1000px;}
+body{color:grey; text-align:center; font-family:verdana,arial; width: 1000px; margin:auto;}
 h1{color:blue; text-align:center; font-size:30px; font-weight:bold;}
 h2{color:black; text-align:left; font-size:24px; font-weight:bold;}
 p{color:grey; text-align:left; font-size:16px;}
