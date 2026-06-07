@@ -8,7 +8,7 @@
 .bold{font-weight:bold}
 .a{transition: transform 0.3s ease; transform-orifin:right center}
 .a:hover,
-.a:active{transform: scale(1.05)}
+.a:active{transform: scale(1.15)}
 
 body{color:grey; text-align:center; font-family:verdana,arial; width: 1000px; margin:auto;}
 h1{color:blue; text-align:center; font-size:30px; font-weight:bold;}
