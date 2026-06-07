@@ -6,6 +6,8 @@
 .styl2{color:black; text-align:left}
 .arial{font-family:verdana,arial}
 .bold{font-weight:bold}
+.a{transition: 0.3s;}
+.a:hover{transform: scale(1.25)}
 
 body{color:grey; text-align:center; font-family:verdana,arial; width: 1000px; margin:auto;}
 h1{color:blue; text-align:center; font-size:30px; font-weight:bold;}
