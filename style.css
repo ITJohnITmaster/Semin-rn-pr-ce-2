@@ -15,3 +15,12 @@ li{color:black; text-align:left; font-size:16px; transform: scale(1.03);}
 ul{color:black; text-align:left; font-size:16px; transform: scale(1.03);}
 table{align:center;}
 a{transform: scale(1.03);}
+h1{background-color: rgba(144,238,144,0.9);
+            padding: 20px;
+            border: 5px dotted green;
+            margin: 10px;
+            text-align: center;
+            border-radius: 15px;
+            box-shadow: 3px 3px 10px gray;
+            transition: 0.3s;}
+        
