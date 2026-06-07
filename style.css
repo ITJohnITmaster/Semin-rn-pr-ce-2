@@ -11,5 +11,5 @@ body{color:grey; text-align:center; font-family:verdana,arial}
 h1{color:blue; text-align:center; font-size:30px; font-weight:bold;}
 h2{color:black; text-align:left; font-size:24px; font-weight:bold;}
 p{color:grey; text-align:left; font-size:16px}
-li{color:black; text-align:left; font-size:1.5em;}
+li{color:black; text-align:left; font-size:16px;}
 table{align:center;}
