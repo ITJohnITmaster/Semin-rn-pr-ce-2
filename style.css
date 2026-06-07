@@ -7,14 +7,14 @@
 .arial{font-family:verdana,arial}
 .bold{font-weight:bold}
 
-body{color:grey; text-align:center; font-family:verdana,arial; width: 1000px; align:center;}
+body{color:grey; text-align:center; font-family:verdana,arial; width: 1000px;}
 h1{color:blue; text-align:center; font-size:30px; font-weight:bold;}
 h2{color:black; text-align:left; font-size:24px; font-weight:bold;}
-p{color:grey; text-align:left; font-size:16px}
+p{color:grey; text-align:left; font-size:16px;}
 li{color:black; text-align:left; font-size:16px; transform: scale(1.03);}
 ul{color:black; text-align:left; font-size:16px; transform: scale(1.03);}
 table{align:center;}
 a{transform: scale(1.03);}
 h1{padding: 20px; border: 5px line blue; text-align: center; border-radius: 10px;  transition: 0.3s;}
 h1:hover{transform: scale(1.03);}
-li:hover{transform: scale(1.03)}        
+li:hover{transform: scale(1.03);}        
