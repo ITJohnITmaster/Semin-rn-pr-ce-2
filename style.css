@@ -8,6 +8,7 @@
 .bold{font-weight:bold}
 .malyurl{}
 .velkyurl{}
+.malyimg{}
 
 
 
@@ -23,3 +24,4 @@ h1{padding: 20px; border: 5px line blue; text-align: center; border-radius: 10px
 h1:hover{transform: scale(1.03);} 
 .malyurl:hover{font-size:20px}
 .velkyurl:hover{font-size:31px}
+.malyimg:hover{width:"350"}
