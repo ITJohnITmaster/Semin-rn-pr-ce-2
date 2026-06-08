@@ -6,9 +6,9 @@
 .styl2{color:black; text-align:left}
 .arial{font-family:verdana,arial}
 .bold{font-weight:bold}
-.malyurl{}
-.velkyurl{}
-.malyimg{}
+.malyurl{transition:transform 0.3s ease;}
+.velkyurl{transition:transform 0.3s ease;}
+.malyimg{transition:transform 0.3s ease;}
 
 
 
@@ -22,6 +22,6 @@ table{align:center;}
 a{transition:0.3s}
 h1{padding: 20px; border: 5px line blue; text-align: center; border-radius: 10px;  transition: 0.3s;}
 h1:hover{transform: scale(1.03);} 
-.malyurl:hover{font-size:20px}
-.velkyurl:hover{font-size:31px}
-.malyimg:hover{width:"350"}
+.malyurl:hover{font-size:20px;}
+.velkyurl:hover{font-size:31px;}
+.malyimg:hover{transform:scale (1.2);}
