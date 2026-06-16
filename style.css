@@ -6,7 +6,7 @@
 .styl2{color:black; text-align:left}
 .arial{font-family:verdana,arial}
 .bold{font-weight:bold}
-.malyurl{font-size: 16px; transition:font-size 0.4s ease;}
+.malyurl{font-size: 16px;}
 .velkyurl{transition:transform 0.3s ease;}
 .malyimg{transition:transform 0.3s ease;}
 .imgcenter{align:center}
